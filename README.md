@@ -12,7 +12,7 @@ Follow these steps to download and run the project on your local machine.
 
 ```bash
 git clone https://github.com/yourusername/dreamlayer.git
-cd dreamlayer
+cd dreamlayer-image-ai-main
 ```
 
 ### 2. Install Required Packages
